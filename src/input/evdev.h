@@ -19,6 +19,8 @@
 
 #include "mapping.h"
 
+extern int evdev_gamepads;
+
 void evdev_create(const char* device, struct mapping* mappings, bool verbose);
 void evdev_loop();
 
@@ -26,3 +28,4 @@ void evdev_init();
 void evdev_start();
 void evdev_stop();
 void evdev_map(char* device);
+void evdev_rumble(unsigned short controller_id, unsigned short low_freq_motor, unsigned short high_freq_motor);

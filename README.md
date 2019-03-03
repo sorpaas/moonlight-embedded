@@ -24,14 +24,6 @@ More information about installing and runnning Moonlight Embedded is available o
 * Connect to the GFE Server with Moonlight Embedded
 * Play games!
 
-## Donations
-
-Donations are welcome and will be used to buy new test hardware.
-
-- Bitcoin [1DgheY9CkQhzwgtjaoYpGSudaMzck1swDp](bitcoin:1DgheY9CkQhzwgtjaoYpGSudaMzck1swDp)
-- [PayPal](https://www.paypal.me/itimmer)
-- [Flattr](https://flattr.com/submit/auto?fid=lz111v&url=https%3A%2F%2Fgithub.com%2Firtimmer%2Fmoonlight-embedded)
-
 ## Bugs
 
 Please check the fora, wiki and old bug reports before submitting a new bug report.
@@ -47,6 +39,7 @@ different C implementations of Moonlight
 
 ## Discussion
 
+[Discord](https://discord.gg/6ERtzFY) Moonlight in General with Moonlight Embedded channel  
 [XDA](http://forum.xda-developers.com/showthread.php?t=2505510) Moonlight in General  
 [Raspberry Pi Forum](http://www.raspberrypi.org/forums/viewtopic.php?f=78&t=65878) Moonlight Embedded for Raspberry Pi  
 [SolidRun Community](http://www.solid-run.com/community/viewtopic.php?f=13&t=1489&p=11173) Moonlight Embedded for Cubox-i and Hummingboard  
